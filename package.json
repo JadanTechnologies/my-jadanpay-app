@@ -1,0 +1,11 @@
+{
+  "name": "jadanpay-vtu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JadanPay: airtime, data and bill payments with wallet, earnings, and reseller tools",
+  "scripts": {
+    "start": "npx --yes serve -l 3000 .",
+    "dev": "npx --yes serve -l 3000 ."
+  },
+  "license": "UNLICENSED"
+}
